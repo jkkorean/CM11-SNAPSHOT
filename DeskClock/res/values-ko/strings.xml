@@ -32,6 +32,7 @@
 	<string name="alarm_picker_title">알람 유형 선택</string>
     <string name="alarm_type_ringtone">벨소리</string>
     <string name="alarm_type_random">무작위</string>
+	<string name="warn_silent_alarm_title">알람 볼륨이 무음입니다</string>
     <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
     <string name="full_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="default_clock_style">디지털</string>
